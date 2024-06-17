@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "telegram.bot.username",
+      "type": "java.lang.String",
+      "description": "Username of the Sesame Delivery Bot."
+    },
+    {
+      "name": "telegram.bot.token",
+      "type": "java.lang.String",
+      "description": "Token of the Sesame Delivery Bot."
+    }
+  ]
+}
